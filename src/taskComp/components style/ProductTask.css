@@ -1,0 +1,62 @@
+.total{
+    display: flex;
+    justify-content: right;
+    
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+
+}
+h3{
+    color: black;
+}
+hr{
+    background-color: black;
+}
+h4{
+    color: black;
+}
+p{
+    color: black;
+}
+.cards{
+    border-color: black;
+}
+/* button{
+    margin-left: 20px; 
+}*/
+.remove{
+    background-color: rgb(238, 35, 35);
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    
+}
+.details{
+   margin-left: 65%;
+   /* margin-top: 2%;s */
+   /* height: 70vh; */
+}
+.increase{
+    background-color: rgb(92, 240, 92);
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
+.decrease{
+    background-color: whitesmoke;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
+img{
+    margin-left: 20%;
+    
+}
+
