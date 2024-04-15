@@ -25,9 +25,7 @@ p{
 .cards{
     border-color: black;
 }
-/* button{
-    margin-left: 20px; 
-}*/
+
 .remove{
     background-color: rgb(238, 35, 35);
     padding: 5px;
@@ -38,8 +36,7 @@ p{
 }
 .details{
    margin-left: 65%;
-   /* margin-top: 2%;s */
-   /* height: 70vh; */
+  
 }
 .increase{
     background-color: rgb(92, 240, 92);

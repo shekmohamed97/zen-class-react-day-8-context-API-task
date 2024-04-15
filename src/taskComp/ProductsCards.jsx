@@ -5,7 +5,7 @@ import { mycontext } from '../App';
 const Cart = () => {
     const[taskData,setTaskData]=useContext(mycontext)
 
-    const totalPrice=taskData.reduce((total, data)=>total + data.price * (data.quantity || 1) , 0)
+    const totalPrice=taskData.reduce((total, data)=>total + data.price * (data.quantity || 1) , 0);
     
     const totalQuantity=taskData.reduce((total, data)=>total + (data.quantity || 1), 0 );
     
